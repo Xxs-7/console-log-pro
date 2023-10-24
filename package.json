@@ -1,0 +1,17 @@
+{
+  "name": "console-log-pro",
+  "version": "0.0.1",
+  "description": "A pro logger that extends console.log's functionality",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "pro",
+    "dev"
+  ],
+  "main": "index.js",
+  "author": "xuxunsheng",
+  "license": "ISC"
+}
